@@ -3,4 +3,6 @@
 ### Project Demo  Video:
 https://youtu.be/UOUqlZVNLdE
 
+More example Input: Algorithms, The Information: A History, Unity in Action
+
 ### Limitations: It only support programming books recomendation from its list of books.
